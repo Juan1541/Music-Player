@@ -35,9 +35,9 @@ const music_list = [
     },
     {
         img : 'images/titi.jpg',
-        name : 'Titi Me Pregunto',
+        name : 'Titi Me Pregunto Remix',
         artist : 'Bad Bunny',
-        music : 'music/Bad Bunny - Tití Me Preguntó (360° Visualizer) _ Un Verano Sin Ti.mp3'
+        music : 'music/BAD BUNNY - TITI ME PREGUNTO Remix.mp3'
     },
     {
         img : 'images/Verano.jpg',
@@ -50,7 +50,14 @@ const music_list = [
         name : 'La Dificil Remix',
         artist : 'Bad Bunny ft. Anuel',
         music : 'music/La Difícil (Remix) - Bad Bunny, Anuel.mp3'
+    },
+    {
+        img : 'images/maxresdefault.jpg',
+        name : 'Gato De Noche Remix',
+        artist : 'Bad Bunny & Negro Flow',
+        music : 'music/Gato de Noche Remix.mp3'
     }
+
 ];
 
 loadTrack(track_index);
